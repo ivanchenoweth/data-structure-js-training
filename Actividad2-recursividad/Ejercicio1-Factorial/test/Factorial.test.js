@@ -5,7 +5,7 @@ describe('Factorial', () => {
     expect(factorial(0)).toBe(1)
   })
 
-  it('should return factorial 120 for value "5"', () => {
+  it('deberia retornar 120 fara el valor de "5"', () => {
     expect(factorial(5)).toBe(120)
   })
 

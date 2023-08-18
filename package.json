@@ -6,8 +6,7 @@
   "scripts": {
     "test": "jest",
     "test-changed": "jest --onlyChanged",
-    "style": "standard",
-    "prepare": "husky install"
+    "style": "standard"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
